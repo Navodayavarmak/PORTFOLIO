@@ -4,7 +4,7 @@
 
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -106,18 +106,18 @@ input, select, textarea {
 		color: #888;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h6 {
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
 	}
 
-	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	h1 a, h2 a, h3 a, h4 a, h6 a {
 		color: inherit;
 		text-decoration: none;
 	}
 
-		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
+		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h6 a strong {
 			color: #333;
 		}
 
